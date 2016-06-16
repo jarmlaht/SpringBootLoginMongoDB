@@ -1,5 +1,15 @@
 # SpringBootLoginMongoDB
 
+Prerequisites
+
+We will need :
+
+    Netbeans IDE
+    JDK 1.7 or later
+    Maven 3.0+
+    MongoDB
+
+
 By default MongoDB is usign "test" database. The example uses "users" collection, so it must be created:
 
 > db.createCollection("users")
